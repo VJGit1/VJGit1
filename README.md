@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjgit1&label=Profile%20views&color=0e75b6&style=flat" alt="vjgit1" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently pursuing **Masters in Data Science from George Washington University**
 
-- 💬 Ask me about **Java, Spring, Data Science, SQL**
+- 💬 Ask me about **C++, Python, R, SQL**
 
-- 📫 How to reach me **vaijusd@gmail.com**
+- 📫 How to reach me **v.deshmukh@gwu.edu**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: http://www.linkedin.com/in/vaijayanti-deshmukh </h3>
 <p align="left">
 </p>
 
