@@ -1,20 +1,70 @@
-<h1 align="center">Hi 👋, I'm Vaijayanti Deshmukh</h1>
-<h3 align="center">A Software Engineer with a passion for Data Science</h3>
+<h1 align="center">👋 hey, i'm vaijayanti</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vjgit1&label=Profile%20views&color=0e75b6&style=flat" alt="vjgit1" /> </p>
-
-- 🌱 I’m currently pursuing **Masters in Data Science from George Washington University**
-
-- 💬 Ask me about **C++, Python, R, SQL**
-
-- 📫 How to reach me **v.deshmukh@gwu.edu**
-
-<h3 align="left">Connect with me: http://www.linkedin.com/in/vaijayanti-deshmukh </h3>
-<p align="left">
+<p align="center">
+  data science grad student 🧠 • language model enthusiast ✍️ • gen ai explorer 🧬<br>
+  sometimes building, sometimes optimizing, always learning
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vjgit1&show_icons=true&locale=en&layout=compact" alt="vjgit1" /></p>
+### 🧬 what keeps me coding at 2am
 
+- extracting meaning from messy language data (NLP ftw)  
+- understanding how LLMs “think” and how GenAI can be made safer and more useful  
+- exploring the real-world implications of bias, explainability, and evaluation in ML  
+- building with purpose — whether it’s a predictive model or a playful experiment  
+- debugging code like it's a boss fight 💥
+
+---
+
+### 🧠 current obsessions
+
+- 🤖 fine-tuning transformer models for classification & generation  
+- ✨ vector databases, embeddings, and RAG pipelines  
+- 🧩 genAI agents and multi-modal workflows  
+- 📈 ML pipeline design, tuning, and evaluation  
+- 🔍 experimenting with prompt engineering + few-shot learning
+
+---
+
+### 📂 select builds & models
+
+#### 🚘 [Advanced Used Car Price Prediction](https://github.com/VJGit1/Advanced-Used-Car-Price-Prediction)  
+end-to-end regression system with XGBoost, LightGBM & MLP — tuned to predict the unpredictable (aka car prices)
+
+#### 🌍 [CDC Asthma Prevalence GWRF](https://github.com/VJGit1/CDC-Places-Asthma-GWRF)  
+geo-weighted ML on asthma data using the CDC PLACES dataset — exploring spatial variation in public health  
+
+#### 🧠 [Mental Health Tweet Classification (BERT)](https://github.com/VJGit1/Mental-Health-Text-Classification)  
+fine-tuned BERT using HuggingFace to classify mental health status from social media text (90% accuracy)
+
+#### 💡 More projects soon:  
+- LLM-driven notebook Q&A assistant 🤖  
+- Retrieval-Augmented Generation (RAG) demo  
+- Minimal GenAI App with Streamlit + LangChain  
+
+---
+
+### 🛠️ tools in my bag
+
+`python` `sql` `c++` `transformers` `scikit-learn` `tensorflow`  
+`pandas` `llms` `huggingface` `power bi` `azure` `neo4j` `selenium`
+
+---
+
+### 🌱 outside the matrix
+
+- 🧘‍♀️ I do 108 Surya Namaskars on special days  
+- 🌸 sometimes I write, always I overthink  
+- ☕ fueled by chai and curiosity  
+- 💙 advocate for women in tech and ethical AI
+
+---
+
+### 📫 find me in the wild
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vaijayanti-deshmukh/)  
+- 📬 v.deshmukh@gwu.edu  
+- 📎 [Forage Certificates](#) • [Kaggle Profile](#) • [Portfolio Website](#)
+
+<p align="center"><i>“Text is data. Data is power. Let's build wisely.”</i></p>
