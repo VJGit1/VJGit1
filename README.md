@@ -1,7 +1,7 @@
-<h1 align="center">👋 hey, i'm vaijayanti</h1>
+<h1 align="center">👋 Hi, I'm Vaijayanti</h1>
 
 <p align="center">
-  data science grad student 🧠 • language model enthusiast ✍️ • gen ai explorer 🧬<br>
+  data science grad student at GWU 🧠 • language model enthusiast ✍️ • gen ai explorer 🧬<br>
   sometimes building, sometimes optimizing, always learning
 </p>
 
@@ -47,8 +47,8 @@ fine-tuned BERT using HuggingFace to classify mental health status from social m
 
 ### 🛠️ tools in my bag
 
-`python` `sql` `c++` `transformers` `scikit-learn` `tensorflow`  
-`pandas` `llms` `huggingface` `power bi` `azure` `neo4j` `selenium`
+`Python` `SQL` `C++` `Transformers` `scikit-learn` `NLTK` `Tensorflow`  
+`Pandas` `LLMs` `Huggingface` `Tableau` `Power BI` `Azure` `AWS` `Neo4j`
 
 ---
 
@@ -56,8 +56,8 @@ fine-tuned BERT using HuggingFace to classify mental health status from social m
 
 - 🧘‍♀️ I do 108 Surya Namaskars on special days  
 - 🌸 sometimes I write, always I overthink  
-- ☕ fueled by chai and curiosity  
-- 💙 advocate for women in tech and ethical AI
+- ☕ fueled by coffee and curiosity  
+- 💙 advocate for women in tech, sustainability, and ethical AI
 
 ---
 
@@ -65,6 +65,6 @@ fine-tuned BERT using HuggingFace to classify mental health status from social m
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vaijayanti-deshmukh/)  
 - 📬 v.deshmukh@gwu.edu  
-- 📎 [Forage Certificates](#) • [Kaggle Profile](#) • [Portfolio Website](#)
+- 📎 [Kaggle Profile](https://www.kaggle.com/sonamma)
 
 <p align="center"><i>“Text is data. Data is power. Let's build wisely.”</i></p>
