@@ -26,7 +26,7 @@ Tech: PyTorch · BERT · FastAPI · React
 - Learned: Fine-tuning transformer models for domain-specific text  
 - Learned: Handling imbalanced datasets using weighted loss + evaluation tuning  
 
-### [/Miami Condo GPT](https://github.com/VJGit1/Miami-Condo-GPT)
+### [Miami Condo GPT](https://github.com/VJGit1/Miami-Condo-GPT)
 > Agentic AI assistant for real-estate intelligence using natural language querying and retrieval-augmented reasoning.  
 Tech: LangGraph · PostgreSQL · FAISS · OpenAI  
 - Learned: Translating ambiguous user intent into executable database operations  
